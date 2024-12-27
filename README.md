@@ -23,7 +23,7 @@ This project aims to:
 ## 🔍 How to Use  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-repo/copyspotify.git  
+   git clone https://github.com/JoaoSzlachta/CopySpotify.git
 2. Open the `index.html` in your browser to view the page
 
 ---
